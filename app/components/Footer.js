@@ -13,7 +13,7 @@ export function Footer() {
                         </div>
                         <p className="text-gray-400 mb-4 max-w-md">
                             Your one-stop shop for amazing products. We curate the best items
-                            to help you find exactly what you're looking for.
+                            to help you find exactly what you&apos;re looking for.
                         </p>
                         <div className="flex space-x-4">
                             <a href="#" className="text-gray-400 hover:text-blue-400 transition-colors">
