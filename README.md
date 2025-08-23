@@ -46,7 +46,7 @@ bash
 git clone https://github.com/Arif547/product-management-nextJS.git
 
 cd your-repo-name
-`
+
 
 ### 2. Install Dependencies
 
