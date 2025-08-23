@@ -17,7 +17,7 @@ This project allows you to **add, view, and manage products** with authenticatio
 
 ## 📂 Project Structure
 
-
+```
 app/
 ├── api/
 │   └── products/   # Product API routes
@@ -25,7 +25,7 @@ app/
 ├── products/       # Product detail pages
 ├── components/     # Reusable UI components
 └── layout.js       # Root layout
-
+```
 
 
 ---
@@ -44,6 +44,7 @@ app/
 ### 1. Clone the Repository
 bash
 git clone https://github.com/Arif547/product-management-nextJS.git
+
 cd your-repo-name
 `
 
@@ -72,11 +73,7 @@ npm run dev
 
 Now open [http://localhost:3000](http://localhost:3000) 🎉
 
----
 
-## 📸 Screenshots
-
-(Add screenshots here if you want)
 
 ---
 
